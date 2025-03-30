@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<!-- saved from url=(0032)http://127.0.0.1:5500/fundo.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Fundo</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" media="screen" href="./Fundo_files/mainf.css">
+  <script src="./Fundo_files/main.js.download"></script>
+</head>
+<body>
+  <div class="fundo">
+    <span class="icone" style="--i: 8"></span>
+    <span class="icone" style="--i: 89"></span>
+    <span class="icone" style="--i: 45"></span>
+    <span class="icone" style="--i: 20"></span>
+    <span class="icone" style="--i: 17"></span>
+    <span class="icone" style="--i: 62"></span>
+    <span class="icone" style="--i: 367"></span>
+    <span class="icone" style="--i: 23"></span>
+    <span class="icone" style="--i: 821"></span>
+    <span class="icone" style="--i: 105"></span>
+    <span class="icone" style="--i: 36"></span>
+    <span class="icone" style="--i: 652"></span>
+    <span class="icone" style="--i: 54"></span>
+    <span class="icone" style="--i: 29"></span>
+    <span class="icone" style="--i: 79"></span>
+    <span class="icone" style="--i: 47"></span>
+    <span class="icone" style="--i: 95"></span>
+    <span class="icone" style="--i: 32"></span>
+    <span class="icone" style="--i: 81"></span>
+    <span class="icone" style="--i: 350"></span>
+    <span class="icone" style="--i: 86"></span>
+    <span class="icone" style="--i: 89"></span>
+    <span class="icone" style="--i: 45"></span>
+    <span class="icone" style="--i: 20"></span>
+    <span class="icone" style="--i: 17"></span>
+    <span class="icone" style="--i: 62"></span>
+    <span class="icone" style="--i: 75"></span>
+    <span class="icone" style="--i: 23"></span>
+    <span class="icone" style="--i: 821"></span>
+    <span class="icone" style="--i: 35"></span>
+    <span class="icone" style="--i: 36"></span>
+    <span class="icone" style="--i: 652"></span>
+    <span class="icone" style="--i: 54"></span>
+    <span class="icone" style="--i: 27"></span>
+    <span class="icone" style="--i: 79"></span>
+    <span class="icone" style="--i: 47"></span>
+    <span class="icone" style="--i: 94"></span>
+    <span class="icone" style="--i: 30"></span>
+    <span class="icone" style="--i: 81"></span>
+    <span class="icone" style="--i: 350"></span>
+    <span class="icone" style="--i: 84"></span>
+    <span class="icone" style="--i: 89"></span>
+    <span class="icone" style="--i: 45"></span>
+    <span class="icone" style="--i: 20"></span>
+    <span class="icone" style="--i: 17"></span>
+    <span class="icone" style="--i: 62"></span>
+    <span class="icone" style="--i: 14"></span>
+    <span class="icone" style="--i: 60"></span>
+    <span class="icone" style="--i: 79"></span>
+    <span class="icone" style="--i: 61"></span>
+    <span class="icone" style="--i: 200"></span>
+    <span class="icone" style="--i: 10"></span>
+    <span class="icone" style="--i: 16"></span>
+    <span class="icone" style="--i: 43"></span>
+    <span class="icone" style="--i: 58"></span>
+    <span class="icone" style="--i: 34"></span>
+    <span class="icone" style="--i: 36"></span>
+    <span class="icone" style="--i: 76"></span>
+    <span class="icone" style="--i: 18"></span>
+    <span class="icone" style="--i: 50"></span>
+    <span class="icone" style="--i: 47"></span>
+    <span class="icone" style="--i: 94"></span>
+    <span class="icone" style="--i: 30"></span>
+    <span class="icone" style="--i: 81"></span>
+    <span class="icone" style="--i: 350"></span>
+    <span class="icone" style="--i: 84"></span>
+    <span class="icone" style="--i: 89"></span>
+    <span class="icone" style="--i: 45"></span>
+    <span class="icone" style="--i: 20"></span>
+    <span class="icone" style="--i: 17"></span>
+    <span class="icone" style="--i: 62"></span>
+    <span class="icone" style="--i: 14"></span>
+    <span class="icone" style="--i: 60"></span>
+    <span class="icone" style="--i: 79"></span>
+    <span class="icone" style="--i: 61"></span>
+    <span class="icone" style="--i: 200"></span>
+    <span class="icone" style="--i: 10"></span>
+    <span class="icone" style="--i: 16"></span>
+    <span class="icone" style="--i: 43"></span>
+    <span class="icone" style="--i: 58"></span>
+    <span class="icone" style="--i: 34"></span>
+    <span class="icone" style="--i: 36"></span>
+    <span class="icone" style="--i: 76"></span>
+    <span class="icone" style="--i: 18"></span>
+    <span class="icone" style="--i: 50"></span>
+
+  </div>
+  
+<!-- Code injected by live-server -->
+<script>
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+
+</body></html>
